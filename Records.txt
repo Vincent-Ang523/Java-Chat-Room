@@ -1,0 +1,22 @@
+SERVER: Vincent has entered the chat!   02-21-2024 15:56:24
+SERVER: Killian has entered the chat!   02-21-2024 15:56:47
+Vincent: Hello Killian!   02-21-2024 15:57:38  1 message(s)
+Vincent: How are you?   02-21-2024 15:57:41  2 message(s)
+Killian: Hello Vincent!   02-21-2024 15:58:17  1 message(s)
+Killian: Do you want to go hangout tonight?   02-21-2024 15:58:29  2 message(s)
+SERVER: Steve has entered the chat!   02-21-2024 15:59:05
+Steve: Hello everyone!   02-21-2024 15:59:22  1 message(s)
+Steve: What are you guys doing?   02-21-2024 15:59:28  2 message(s)
+SERVER: Killian has left the chat!
+Vincent: Aw why did he leave?   02-21-2024 16:00:43  3 message(s)
+Steve: I know right?   02-21-2024 16:00:49  3 message(s)
+SERVER: Vincent has left the chat!
+SERVER: Steve has left the chat!
+SERVER: Ricky has entered the chat!   02-21-2024 16:03:16
+SERVER: Ferry has entered the chat!   02-21-2024 16:03:20
+Ricky: Hello!   02-21-2024 16:03:26  1 message(s)
+Ricky: Where are you going?   02-21-2024 16:03:31  2 message(s)
+Ferry: I am going to a coffeshop   02-21-2024 16:03:41  1 message(s)
+Ferry: wanna come?   02-21-2024 16:03:44  2 message(s)
+SERVER: Ricky has left the chat!
+SERVER: Ferry has left the chat!
